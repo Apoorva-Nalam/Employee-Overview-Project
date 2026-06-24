@@ -23,5 +23,5 @@ This project is an Employee Overview Dashboard created using Excel to analyze wo
 
 ## Dashboard Preview
 Show what the dashboard looks like.
-
+![image alt](https://github.com/Apoorva-Nalam/Employee-Overview-Project/blob/b091931be61614c57ad3d2df4cc84012c962ffa5/Employee_Overview_dashboard.png)
   
