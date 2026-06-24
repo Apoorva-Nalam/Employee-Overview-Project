@@ -22,3 +22,7 @@ This project is an Employee Overview Dashboard created using Excel to analyze wo
 - Business insight generation
 
 ## Dashboard Preview
+Show what the dashboard looks like.
+  ![Dashboard Preview](<img width="1806" height="802" alt="emp_dashboard" src="https://github.com/user-attachments/assets/48e13818-a775-47e3-b8b5-bf3ed281c952" />
+)
+  
