@@ -23,6 +23,6 @@ This project is an Employee Overview Dashboard created using Excel to analyze wo
 
 ## Dashboard Preview
 Show what the dashboard looks like.
-  ![Dashboard Preview]([<img width="1806" height="802" alt="emp_dashboard" src="https://github.com/user-attachments/assets/48e13818-a775-47e3-b8b5-bf3ed281c952" />](https://github.com/Apoorva-Nalam/Employee-Overview-Project/blob/ab49afece169b93c1d4bbc8e220771ebb6a1d963/emp_dashboard.png)
-)
+([<img width="1806" height="802" alt="emp_dashboard" src="https://github.com/user-attachments/assets/48e13818-a775-47e3-b8b5-bf3ed281c952" />](https://github.com/Apoorva-Nalam/Employee-Overview-Project/blob/ab49afece169b93c1d4bbc8e220771ebb6a1d963/emp_dashboard.png)
+
   
